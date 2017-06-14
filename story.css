@@ -1,0 +1,44 @@
+*{
+	margin:0px;
+}
+
+body{
+background-color: rgba(70,70,70,1);
+text-align: center;
+}
+
+div.content{
+background-color: white; 
+text-align: left;
+padding-left: 10px;
+}
+
+
+h1{
+	color: white;
+	text-align: left;
+}
+
+ul li{
+font-family: verdana;
+color: white;
+ display:inline;
+margin-left: 20px; 
+text-decoration: none;
+margin-bottom:0px;
+}
+
+ul{
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: darkred; 
+margin-bottom:0px;
+}
+
+div.container{
+	display: inline-block;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+
+}

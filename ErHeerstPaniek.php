@@ -10,8 +10,8 @@
 </div>
 <h2>Er heerst paniek...</h2>
 <form action="ErHeerstPaniekVerhaal.php" method="post">
-		Welk dier zou je nooit als huisdier willen hebben?
-		<input type="text" name="Input1"><br>
+		<p><label>Welk dier zou je nooit als huisdier willen hebben?</label>
+		<input type="text" name="Input1"></p>
 		Wie is de belangrijkste in je leven?
 		<input type="text" name="Input2"><br>
 		In welk land zou je graag willen wonen?
